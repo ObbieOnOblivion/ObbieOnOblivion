@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ObbieOnOblivion
-- 👀 I’m interested in crypto and code
+- 👀 I’m interested in BTC and code
 - 🌱 I’m currently learning web developement and python
-- 💞️ I’m looking to collaborate on any backend development project
 - 📫 How to reach me obbie.omoruyi@gmail.com
 
 <!---
